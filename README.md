@@ -1,6 +1,12 @@
 # 🔧 CodeDebugger AI
 
 A modern AI-powered code debugging web application that provides intelligent error analysis, fix recommendations, and best practices for multiple programming languages.
+![ff487562-9e3d-442d-b82e-c85fe26f0e86](https://github.com/user-attachments/assets/ffc0244e-0c2a-404d-b1b7-49a6a10fde27)![10f5b17c-6083-4121-b1bc-6b1a4a26b04f](https://github.com/user-attachments/assets/1af459d0-a530-4b9c-9b07-eebc868b8689)
+
+![1b9e4071-7068-4767-8170-671819f46fa8](https://github.com/user-attachments/assets/bb61d621-70c4-4b19-9598-aeb30a836004)
+![9ab96405-a7be-4590-bb0f-e0776cabb210](https://github.com/user-attachments/assets/773aa17d-9445-4ecb-9ff5-2d66c8623c64)
+
+
 
 ## 🚀 Features
 
