@@ -4,12 +4,13 @@ A modern AI-powered code debugging web application that provides intelligent err
 
 ##Previeew
 
-![Uploading 51cf572a-e496-481a-92ef-42a81f6625f5.png…]()
-![bd4cb961-80db-4947-96b5-13eb4f3d96c7](https://github.com/user-attachments/assets/1bfe3d84-962e-4e96-8c58-6e1e2c17aa3e)
-![1b9e4071-7068-4767-8170-671819f46fa8](https://github.com/user-attachments/assets/e91e7fa6-8858-4bd0-b230-17d40af6713c)
-![9ab96405-a7be-4590-bb0f-e0776cabb210](https://github.com/user-attachments/assets/a69d7be2-ff31-4bb2-a64e-529a749545f4)
-![10f5b17c-6083-4121-b1bc-6b1a4a26b04f](https://github.com/user-attachments/assets/955c6f24-1e61-4b69-a624-7e05ea08b3e2)
-![ff487562-9e3d-442d-b82e-c85fe26f0e86](https://github.com/user-attachments/assets/b7b3fada-3126-4a5b-ad49-6095c89fce6d)
+![ff487562-9e3d-442d-b82e-c85fe26f0e86](https://github.com/user-attachments/assets/38dc1df8-e03b-4236-a057-300be76e8455)
+![10f5b17c-6083-4121-b1bc-6b1a4a26b04f](https://github.com/user-attachments/assets/de7b1dc6-5026-4f81-ba94-fa1b49b2a145)
+
+![1b9e4071-7068-4767-8170-671819f46fa8](https://github.com/user-attachments/assets/3c225cb4-2f7d-4b26-a0e6-9032e17ed264)
+![9ab96405-a7be-4590-bb0f-e0776cabb210](https://github.com/user-attachments/assets/646382fc-97a2-4727-98d9-16d49daf1495)
+![bd4cb961-80db-4947-96b5-13eb4f3d96c7](https://github.com/user-attachments/assets/b38c0287-52c0-408b-9037-1084b008bd0d)
+![51cf572a-e496-481a-92ef-42a81f6625f5](https://github.com/user-attachments/assets/23a1fe05-2284-480e-832c-82d4b921195e)
 
 
 ## 🚀 Features
