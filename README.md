@@ -2,15 +2,13 @@
 
 A modern AI-powered code debugging web application that provides intelligent error analysis, fix recommendations, and best practices for multiple programming languages.
 
-##Previeew
-
-![ff487562-9e3d-442d-b82e-c85fe26f0e86](https://github.com/user-attachments/assets/38dc1df8-e03b-4236-a057-300be76e8455)
-![10f5b17c-6083-4121-b1bc-6b1a4a26b04f](https://github.com/user-attachments/assets/de7b1dc6-5026-4f81-ba94-fa1b49b2a145)
-
-![1b9e4071-7068-4767-8170-671819f46fa8](https://github.com/user-attachments/assets/3c225cb4-2f7d-4b26-a0e6-9032e17ed264)
-![9ab96405-a7be-4590-bb0f-e0776cabb210](https://github.com/user-attachments/assets/646382fc-97a2-4727-98d9-16d49daf1495)
-![bd4cb961-80db-4947-96b5-13eb4f3d96c7](https://github.com/user-attachments/assets/b38c0287-52c0-408b-9037-1084b008bd0d)
-![51cf572a-e496-481a-92ef-42a81f6625f5](https://github.com/user-attachments/assets/23a1fe05-2284-480e-832c-82d4b921195e)
+## Previeew
+![d36f3387-e0cb-4fcc-9fa9-f835f5abaad9](https://github.com/user-attachments/assets/578907fb-1e3b-4ae5-9960-1765e17493f6)
+![93063709-0e06-4f60-9f27-384f545ee161](https://github.com/user-attachments/assets/d2cbf6f3-68b0-4e91-96e6-bd594cdcbeab)
+![c75b23fe-2e77-4a2c-9403-38c0430de76d](https://github.com/user-attachments/assets/1e092484-0144-4b87-b5e9-20e8fcf3fa7b)
+![f5535a1d-a6cf-480a-ade7-882b8e380468](https://github.com/user-attachments/assets/1343c672-d595-427f-8673-613074819040)
+![edb13e13-8677-4eb4-8997-c667106c1fe9](https://github.com/user-attachments/assets/d859828d-61af-42dc-b54f-65d568ed967b)
+![f691a4cc-4811-459f-ad90-104d49237740](https://github.com/user-attachments/assets/9eeab02e-d859-4692-b6fa-cfcbfa66d75b)
 
 
 ## 🚀 Features
