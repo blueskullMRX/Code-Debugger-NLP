@@ -701,7 +701,7 @@ class CodeErrorRecommendationEngine:
         {report}
         """
 
-        client = genai.Client(api_key="AIzaSyAQO8gGt7RjuidfqiJwdQ6WdN0QsSI16So")
+        client = genai.Client(api_key="YOUR_API_KEY")
         response = client.models.generate_content(
             model="gemini-2.0-flash",
             contents=custom_prompt
